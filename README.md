@@ -55,4 +55,4 @@ Targeting summer 2026 internships in ML engineering and backend.
 
 ---
 
-**Email:** bhanuchukka2005@gmail.com · **LinkedIn:**(https://www.linkedin.com/in/chukka-bhanu-prakash) · **Portfolio:** coming soon
+**Email:** bhanuchukka2005@gmail.com · **LinkedIn:** https://www.linkedin.com/in/chukka-bhanu-prakash · **Portfolio:** coming soon
