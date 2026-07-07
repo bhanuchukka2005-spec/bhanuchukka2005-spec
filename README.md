@@ -1,58 +1,80 @@
-# Chukka Bhanu Prakash
+<div align="center">
 
-CS Engineering · Presidency University, Bengaluru · AI/ML systems + secure backend APIs
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=180&section=header&text=Bhanu%20Prakash&fontSize=42&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%7C%20Backend%20Engineer%20%7C%20Security-minded&descAlignY=58&descSize=16" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=2nd-year+CSE+%40+Presidency+University;Building+VoiceGuard+%E2%80%94+audio+deepfake+detection;Building+DeepShield+%E2%80%94+image+deepfake+detection;Chasing+GSoC+2027+%7C+DevSecOps+curious" alt="Typing SVG" />
+</a>
 
-| 9.16 CGPA | ~92% accuracy | <200ms inference | 5 deployed projects |
-|-----------|---------------|-----------------|---------------------|
-| Semester IV | DeepShield · FaceForensics++ | VoiceGuard · CPU | production |
+</div>
 
----
+<br/>
 
-### Projects
+### `whoami`
 
-**[VoiceGuard](https://github.com/bhanuchukka2005-spec/audio-deepfake-detector)** · `Audio ML`  
-Ensemble deepfake voice detector — SVM + GradientBoosting + XGBoost soft-vote over 270-dim feature space (MFCC, spectral, chroma, prosody). FastAPI backend, Docker, frontend with spectral fingerprint radar.  
-`sub-200ms inference · CPU · FusionX Hackathon 2026`
+```bash
+$ cat about_me.txt
+> CSE undergrad (2024-2028), CGPA 9.16, Presidency University, Bengaluru
+> Building ML systems that detect what shouldn't be trusted:
+>   - VoiceGuard   : audio deepfake detection (347-feature ensemble + XGBoost)
+>   - DeepShield   : image deepfake detection (EfficientNet-B0, FaceForensics++)
+> Also ships backend: Flask/FastAPI, Docker, CI/CD, Redis
+> Long-term target: Product Security / DevSecOps
+```
 
-**[DeepShield](https://github.com/bhanuchukka2005-spec/deepfake-detector)** · `CV · Transformers`  
-Image/video deepfake detection with transformer models fine-tuned on FaceForensics++. 5-stage inference pipeline (face detection → preprocessing → inference → heatmap → aggregation) with EfficientNet-B0 training module.  
-`~92% accuracy · FaceForensics++ test set`
+<br/>
 
-**[Stock Sentiment Engine](https://github.com/bhanuchukka2005-spec/stock-sentiment)** · `NLP · FinBERT`  
-Financial news pipeline using FinBERT — confidence-weighted sentiment aggregation across 100+ articles/query, sub-second API response. Live Yahoo Finance integration, comparison mode frontend.  
-`100+ articles/query · sub-second response`
+### `stack --list`
 
-**[Campus Intelligence System](https://github.com/bhanuchukka2005-spec/Student-assistant-chatbot)** · `Full-stack` · [Live](https://student-assistant-chatbot-2k4t.onrender.com)  
-Full-stack chatbot for student queries — FastAPI + PostgreSQL, role-based access (Admin/Faculty/Student), Docker, deployed on Render.
+<div align="center">
 
-**[Feedback Intelligence Engine](https://github.com/bhanuchukka2005-spec/Feedback-intelligence-engine)** · `NLP`  
-Multi-label student feedback analysis with BERT, LDA topic clustering, Redis caching (sub-50ms reads), and spike alerting.
+![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff9c)
+![Flask](https://img.shields.io/badge/-Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00ff9c)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff9c)
+![PyTorch](https://img.shields.io/badge/-PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00ff9c)
+![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=00ff9c)
+![Linux](https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff9c)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff9c)
 
----
+</div>
 
-### Stack
+<br/>
 
-**AI/ML** — `PyTorch` `HuggingFace` `scikit-learn` `XGBoost` `librosa` `FinBERT` `OpenCV`  
-**Backend · DevOps** — `FastAPI` `PostgreSQL` `Redis` `Docker` `GitHub Actions` `Linux`  
-**Languages** — `Python` `JavaScript` `SQL` `C/C++`
+### `stats --fetch`
 
----
+<div align="center">
 
-### Achievements
+<img src="https://github-readme-stats.vercel.app/api?username=bhanuchukka2005-spec&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=00ff9c&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanuchukka2005-spec&theme=dark&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&border=00ff9c&hide_border=true" width="48%"/>
 
-- 3rd Place — DevOps Decode, Presidency University (2026)
-- FusionX Hackathon 2026 — built VoiceGuard end-to-end in 24hrs · Track 3: AIML
-- LeetCode — [70+ problems](https://leetcode.com/u/Bhanu_heroo7)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuchukka2005-spec&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_color=00ff9c&hide_border=true" width="48%"/>
 
----
+</div>
 
-### Currently
+<br/>
 
-Building a portfolio site with an AI terminal (Groq llama-3.3-70b · Next.js · Vercel).  
-Targeting summer 2026 internships in ML engineering and backend.
+### `git log --graph --activity`
 
----
+<div align="center">
 
-**Email:** bhanuchukka2005@gmail.com · **LinkedIn:** https://www.linkedin.com/in/chukka-bhanu-prakash · **Portfolio:** coming soon
+<!--START_SECTION:activity-->
+<!-- this section auto-fills once the snake.yml workflow (below) runs -->
+<!--END_SECTION:activity-->
+
+<img src="https://raw.githubusercontent.com/bhanuchukka2005-spec/bhanuchukka2005-spec/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+### `connect --channels`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff9c)](https://your-portfolio-url.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://linkedin.com/in/your-linkedin)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer" width="100%"/>
