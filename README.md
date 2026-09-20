@@ -139,9 +139,6 @@
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhanuchukka2005-spec&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3b3b&icon_color=ff3b3b&text_color=c9d1d9&ring_color=ff3b3b"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuchukka2005-spec&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3b3b&text_color=c9d1d9"/>
-
 <img src="https://streak-stats.demolab.com?user=bhanuchukka2005-spec&hide_border=true&background=0d1117&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
 
 </div>
