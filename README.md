@@ -25,26 +25,10 @@
 [ OK ] Program ...... B.Tech CSE · CGPA 9.16
 [ OK ] Focus ........ AI/ML · Backend · DevOps
 [ OK ] LeetCode ..... 100+ problems solved
-[ OK ] Portfolio .... online (3D · robotic · red)
 ```
 
 <br/>
 
-### 🤖 `cd ./portfolio`
-
-<div align="center">
-
-**A 3D robot-themed portfolio, built to be explored rather than scrolled.**
-
-[![Launch](https://img.shields.io/badge/-▶_Launch_Portfolio-0d1117?style=for-the-badge&labelColor=0d1117&color=ff3b3b)](YOUR_PORTFOLIO_URL)
-
-<!-- Optional: add a screen-recording GIF of the robot here, then uncomment:
-<img src="ADD_PREVIEW_GIF_URL" width="80%"/>
--->
-
-</div>
-
-<br/>
 
 ### 🧠 `stack --list`
 
