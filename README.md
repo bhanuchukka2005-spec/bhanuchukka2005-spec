@@ -1,145 +1,172 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=180&section=header&text=Chukka%20Bhanu%20Prakash&fontSize=38&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Systems%20%2B%20Secure%20Backend%20APIs&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:ff3b3b&height=200&section=header&text=Chukka%20Bhanu%20Prakash&fontSize=40&fontColor=ff3b3b&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Systems%20%2B%20Secure%20Backend%20APIs&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=680&lines=CS+Engineering+%40+Presidency+University%2C+Bengaluru;Building+VoiceGuard+%E2%80%94+audio+deepfake+detection;Building+DeepShield+%E2%80%94+FaceForensics%2B%2B+CV+pipeline;Targeting+2026+internships+in+ML+%2B+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=FF3B3B&center=true&vCenter=true&width=680&lines=%3E+initializing+bhanu.exe+...;%3E+CS+Engineering+%40+Presidency+University%2C+Bengaluru;%3E+AI%2FML+%C2%B7+Secure+Backend+%C2%B7+DevOps;%3E+3D+robot+portfolio%3A+online+%E2%86%93" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/-🤖_Enter_the_3D_Portfolio-0d1117?style=for-the-badge&labelColor=0d1117&color=ff3b3b)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff3b3b)](https://www.linkedin.com/in/chukka-bhanu-prakash)
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff3b3b)](mailto:bhanuchukka2005@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode_100+-0d1117?style=for-the-badge&logo=leetcode&logoColor=ff3b3b)](https://leetcode.com/u/Bhanu_heroo7)
 
 </div>
 
 <br/>
 
+### 🔴 `./status --verbose`
+
 ```bash
-$ cat status.txt
-> Semester IV · CGPA 9.16
-> 5 projects built · 1 live deployment · 70+ LeetCode solved
+[ OK ] Unit ......... Chukka Bhanu Prakash
+[ OK ] Base ......... Presidency University, Bengaluru
+[ OK ] Program ...... B.Tech CSE · CGPA 9.16
+[ OK ] Focus ........ AI/ML · Backend · DevOps
+[ OK ] LeetCode ..... 100+ problems solved
+[ OK ] Portfolio .... online (3D · robotic · red)
 ```
 
 <br/>
 
-### `ls ./projects`
-
-<details open>
-<summary><b>VoiceGuard</b> — <code>Audio ML</code></summary>
-<br/>
-
-[github.com/bhanuchukka2005-spec/audio-deepfake-detector](https://github.com/bhanuchukka2005-spec/audio-deepfake-detector)
-
-Ensemble deepfake voice detector — SVM + GradientBoosting + XGBoost soft-vote over a 270-dim feature space (MFCC, spectral, chroma, prosody). FastAPI backend, Docker, frontend with a spectral fingerprint radar.
-
-`sub-200ms inference on CPU` · `built at FusionX Hackathon 2026, Track 3: AIML`
-
-</details>
-
-<details>
-<summary><b>DeepShield</b> — <code>CV · Transformers</code></summary>
-<br/>
-
-[github.com/bhanuchukka2005-spec/deepfake-detector](https://github.com/bhanuchukka2005-spec/deepfake-detector)
-
-Image/video deepfake detection using transformer models fine-tuned on FaceForensics++, with a 5-stage inference pipeline: face detection → preprocessing → inference → heatmap → aggregation. Includes an EfficientNet-B0 training module.
-
-`~92% accuracy on the FaceForensics++ test set`
-
-</details>
-
-<details>
-<summary><b>Stock Sentiment Engine</b> — <code>NLP · FinBERT</code></summary>
-<br/>
-
-[github.com/bhanuchukka2005-spec/stock-sentiment](https://github.com/bhanuchukka2005-spec/stock-sentiment)
-
-Financial news pipeline using FinBERT — confidence-weighted sentiment aggregation across 100+ articles per query, sub-second API response. Live Yahoo Finance integration, comparison-mode frontend.
-
-`100+ articles/query` · `sub-second response`
-
-</details>
-
-<details>
-<summary><b>Campus Intelligence System</b> — <code>Full-stack</code> · <a href="https://student-assistant-chatbot-2k4t.onrender.com">Live</a></summary>
-<br/>
-
-[github.com/bhanuchukka2005-spec/Student-assistant-chatbot](https://github.com/bhanuchukka2005-spec/Student-assistant-chatbot)
-
-Full-stack chatbot for student queries — FastAPI + PostgreSQL, role-based access (Admin/Faculty/Student), Docker, deployed on Render.
-
-</details>
-
-<details>
-<summary><b>Feedback Intelligence Engine</b> — <code>NLP</code></summary>
-<br/>
-
-[github.com/bhanuchukka2005-spec/Feedback-intelligence-engine](https://github.com/bhanuchukka2005-spec/Feedback-intelligence-engine)
-
-Multi-label student feedback analysis with BERT, LDA topic clustering, Redis caching (sub-50ms reads), and spike alerting.
-
-</details>
-
-<br/>
-
-### `stack --list`
+### 🤖 `cd ./portfolio`
 
 <div align="center">
 
-**AI/ML**
-![PyTorch](https://img.shields.io/badge/-PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=00ff9c)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=00ff9c)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=00ff9c)
-![XGBoost](https://img.shields.io/badge/-XGBoost-0d1117?style=flat-square&logoColor=00ff9c)
-![OpenCV](https://img.shields.io/badge/-OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=00ff9c)
+**A 3D robot-themed portfolio, built to be explored rather than scrolled.**
 
-**Backend · DevOps**
-![FastAPI](https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00ff9c)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00ff9c)
-![Redis](https://img.shields.io/badge/-Redis-0d1117?style=flat-square&logo=redis&logoColor=00ff9c)
-![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=00ff9c)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=00ff9c)
-![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=00ff9c)
+[![Launch](https://img.shields.io/badge/-▶_Launch_Portfolio-0d1117?style=for-the-badge&labelColor=0d1117&color=ff3b3b)](YOUR_PORTFOLIO_URL)
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=00ff9c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff9c)
-![SQL](https://img.shields.io/badge/-SQL-0d1117?style=flat-square&logoColor=00ff9c)
-![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-0d1117?style=flat-square&logo=c%2B%2B&logoColor=00ff9c)
+<!-- Optional: add a screen-recording GIF of the robot here, then uncomment:
+<img src="ADD_PREVIEW_GIF_URL" width="80%"/>
+-->
 
 </div>
 
 <br/>
 
-### `git log --grep achievements`
+### 🧠 `stack --list`
 
-- 3rd Place — DevOps Decode, Presidency University (2026)
-- FusionX Hackathon 2026 — built VoiceGuard end-to-end in 24 hrs · Track 3: AIML
-- LeetCode — [70+ problems solved](https://leetcode.com/u/Bhanu_heroo7)
+<div align="center">
+
+**💻 Programming**<br/>
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=ff3b3b)
+![C++](https://img.shields.io/badge/-C++-0d1117?style=flat-square&logo=cplusplus&logoColor=ff3b3b)
+![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk&logoColor=ff3b3b)
+![SQL](https://img.shields.io/badge/-SQL-0d1117?style=flat-square&logoColor=ff3b3b)
 
 <br/>
 
-### `git log --graph --activity`
+**🤖 AI / ML**<br/>
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=ff3b3b)
+![Ollama](https://img.shields.io/badge/-Ollama-0d1117?style=flat-square&logo=ollama&logoColor=ff3b3b)
+![Groq](https://img.shields.io/badge/-Groq_API-0d1117?style=flat-square&logoColor=ff3b3b)
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/bhanuchukka2005-spec/bhanuchukka2005-spec/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+`Machine Learning` · `NLP` · `Generative AI` · `LLMs` · `Prompt Engineering` · `AI Agents / Agentic AI` · `RAG` · `Semantic Search` · `Knowledge Graphs` · `Model Evaluation`
+
+<br/>
+
+**⚙️ Backend**<br/>
+![FastAPI](https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=ff3b3b)
+![Flask](https://img.shields.io/badge/-Flask-0d1117?style=flat-square&logo=flask&logoColor=ff3b3b)
+
+`REST APIs` · `API Integration` · `Backend Architecture` · `JSON` · `HTTP`
+
+<br/>
+
+**🗄️ Databases**<br/>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=ff3b3b)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=ff3b3b)
+![Redis](https://img.shields.io/badge/-Redis-0d1117?style=flat-square&logo=redis&logoColor=ff3b3b)
+![SQL](https://img.shields.io/badge/-SQL-0d1117?style=flat-square&logoColor=ff3b3b)
+
+<br/>
+
+**☁️ DevOps / Cloud**<br/>
+![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=ff3b3b)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=ff3b3b)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=ff3b3b)
+![Jenkins](https://img.shields.io/badge/-Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=ff3b3b)
+![Ansible](https://img.shields.io/badge/-Ansible-0d1117?style=flat-square&logo=ansible&logoColor=ff3b3b)
+![Terraform](https://img.shields.io/badge/-Terraform-0d1117?style=flat-square&logo=terraform&logoColor=ff3b3b)
+![AWS EC2](https://img.shields.io/badge/-AWS_EC2-0d1117?style=flat-square&logo=amazonec2&logoColor=ff3b3b)
+![AWS CLI](https://img.shields.io/badge/-AWS_CLI-0d1117?style=flat-square&logoColor=ff3b3b)
+
+`CI/CD`
+
+<br/>
+
+**📊 Data / ML Tools**<br/>
+![NumPy](https://img.shields.io/badge/-NumPy-0d1117?style=flat-square&logo=numpy&logoColor=ff3b3b)
+![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&logo=pandas&logoColor=ff3b3b)
+![Streamlit](https://img.shields.io/badge/-Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=ff3b3b)
+
+`TextBlob` · `VADER`
+
+<br/>
+
+**🛠️ Developer Tools**<br/>
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=ff3b3b)
+![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=ff3b3b)
+![GitLab](https://img.shields.io/badge/-GitLab-0d1117?style=flat-square&logo=gitlab&logoColor=ff3b3b)
+![VS Code](https://img.shields.io/badge/-VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=ff3b3b)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-0d1117?style=flat-square&logo=googlecolab&logoColor=ff3b3b)
+
+<br/>
+
+**🧬 Core CS**<br/>
+
+`Data Structures & Algorithms` · `Object-Oriented Programming` · `Operating Systems` · `Computer Networks` · `DBMS` · `System Calls` · `Computer Architecture`
+
 </div>
 
 <br/>
 
-### `whoami --currently`
+### 🏆 `git log --grep achievements`
+
+- 🥉 **3rd Place** — DevOps Decode, Presidency University (2026)
+- ⚡ **FusionX Hackathon 2026** — built VoiceGuard end-to-end in 24 hrs · Track 3: AIML
+- 🧩 **LeetCode** — [100+ problems solved](https://leetcode.com/u/Bhanu_heroo7)
+
+<br/>
+
+### 🧊 `render --contributions --3d`
+
+<div align="center">
+
+<img src="./profile-3d-contrib/robot-red.svg" width="100%" alt="3D contribution terrain"/>
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhanuchukka2005-spec&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3b3b&icon_color=ff3b3b&text_color=c9d1d9&ring_color=ff3b3b"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanuchukka2005-spec&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3b3b&text_color=c9d1d9"/>
+
+<img src="https://streak-stats.demolab.com?user=bhanuchukka2005-spec&hide_border=true&background=0d1117&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e"/>
+
+</div>
+
+<br/>
+
+### 🔋 `whoami --currently`
 
 ```bash
 $ tail -f now.log
-> Building a portfolio site with an AI terminal (Groq llama-3.3-70b · Next.js · Vercel)
-> Targeting summer 2026 internships in ML engineering and backend
+> Built a 3D robot portfolio with a red theme
+> Deepening AI/ML, backend engineering, and DevOps
+> Exploring RAG, agents, and secure cloud infrastructure
 ```
 
 <br/>
 
-### `connect --channels`
+### 📬 `connect --channels`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:bhanuchukka2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://www.linkedin.com/in/chukka-bhanu-prakash)
+[![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff3b3b)](mailto:bhanuchukka2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff3b3b)](https://www.linkedin.com/in/chukka-bhanu-prakash)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=ff3b3b)](https://leetcode.com/u/Bhanu_heroo7)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b3b,100:0d1117&height=100&section=footer" width="100%"/>
