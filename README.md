@@ -133,7 +133,6 @@
 
 ```bash
 $ tail -f now.log
-> Built a 3D robot portfolio with a red theme
 > Deepening AI/ML, backend engineering, and DevOps
 > Exploring RAG, agents, and secure cloud infrastructure
 ```
