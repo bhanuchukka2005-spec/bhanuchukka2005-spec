@@ -8,7 +8,6 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/-🤖_Enter_the_3D_Portfolio-0d1117?style=for-the-badge&labelColor=0d1117&color=ff3b3b)](YOUR_PORTFOLIO_URL)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff3b3b)](https://www.linkedin.com/in/chukka-bhanu-prakash)
 [![Email](https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff3b3b)](mailto:bhanuchukka2005@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode_100+-0d1117?style=for-the-badge&logo=leetcode&logoColor=ff3b3b)](https://leetcode.com/u/Bhanu_heroo7)
